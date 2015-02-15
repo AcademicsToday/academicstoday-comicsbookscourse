@@ -2,4 +2,8 @@ Hello, Seba.
 
 Its me, stian!
 
+<<<<<<< HEAD
 but you can call me stain...
+=======
+Glory to the Galactic Alliance of Humankind!
+>>>>>>> origin/master
